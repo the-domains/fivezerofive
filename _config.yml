@@ -1,7 +1,7 @@
 name: FiveZeroFive
 favicon: null
-layout_spectrum: 0.2466173053253442
-typography_spectrum: 0.4878152566961944
+layout_spectrum: 0.74292
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#111111'
-    - '#8f897b'
-    - '#ece444'
-    - '#e87481'
-    - '#98242d'
-  brandStrength: 0.25018952088430524
-  lightness: 0
-  saturation: 0.75
-  rhythmicContrast: 0.17023964086547494
+    - '#bec6bb'
+    - '#90867d'
+    - '#605247'
+    - '#2e2617'
+    - '#fdc687'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
